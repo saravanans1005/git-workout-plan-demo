@@ -1,5 +1,4 @@
-console.log("welcome to my plans");
-
-for(var i=0; i<5; i++){
-    console.log(Sara);
+console.log("welcome nanbargalee");
+for(var i=0;i<10;i++){
+    console.log("saralevi");
 }
